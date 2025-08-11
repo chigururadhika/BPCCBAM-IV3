@@ -1,6 +1,6 @@
-# 🌿 Plant Leaf Disease Classification
+# 🌿 BPCCBAM-IV3 Bell pepper Plant Leaf Disease Classification 
 
-A deep learning project for classifying plant leaf diseases using Convolutional Neural Networks (CNN) with TensorFlow/Keras. This system can automatically identify various plant diseases from leaf images, helping farmers and agricultural professionals make informed decisions about crop health.
+The proposed BPCCBAM model  is developed by using Channel Attention Mechanism (CAM), Bit Directions Adaptive Spatial Attention Mechanism (BDASAM) and Positional Attention Mechanism (PAM) for  effeicntly identifying descriminative features for leaf disease regions.  It is integrated with  InceptionV3 for  bellpepper diesease classifcation 
 
 ## 🚀 Features
 
@@ -31,7 +31,7 @@ plant-leaf-disease-classifier/
 
 ## Model Components and Visualizations
 
-### 1. Structure of PAM
+### 1. Structure of PAM (Model architecture will be uploaded in Future)
 ![Structure of PAM](utils/attention3.png)
 
 ---
@@ -146,9 +146,7 @@ matplotlib
 
 ## 📚 References
 
-- [PlantVillage Dataset](https://www.plantvillage.org/)
-- [Deep Learning for Plant Disease Detection](https://arxiv.org/abs/1604.03169)
-
+- [PlantVillage Dataset](https://www.kaggle.com/datasets/adilmubashirchaudhry/plant-village-dataset)
 
 ## 📄 License
 
@@ -157,9 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@chigururadhika](https://github.com/chigururadhika)
+- Email: chigururadhikaphd@gmail.com
+
 
 ## 🙏 Acknowledgments
 
