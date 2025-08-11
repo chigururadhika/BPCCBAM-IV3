@@ -29,9 +29,9 @@ plant-leaf-disease-classifier/
 ```
 
 
-## Model Components and Visualizations
+## Model Components and Visualizations (Model architecture will be uploaded in Future)
 
-### 1. Structure of PAM (Model architecture will be uploaded in Future)
+### 1. Structure of PAM 
 ![Structure of PAM](utils/attention3.png)
 
 ---
